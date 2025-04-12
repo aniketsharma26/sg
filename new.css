@@ -78,14 +78,14 @@ body {
 }
 
 .sixth-text {
-  font-size: 6rem;
+  font-size: 5rem;
   position: absolute;
   left: 5%;
   bottom: 25%;
   opacity: 0;
   color: #8B0000;
   animation-name: bottomFadeOut;
-  animation-delay: 10s;
+  animation-delay: 9s;
   animation-duration: 25s;
 }
 
