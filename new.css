@@ -73,7 +73,7 @@ body {
   opacity: 0;
   color: #f0eba3;
   animation-name: bottomFadeOut;
-  animation-delay: 10s;
+  animation-delay: 09s;
   animation-duration: 24s;
 }
 
@@ -86,7 +86,7 @@ body {
   color: #8B0000;
   animation-name: bottomFadeOut;
   animation-delay: 9s;
-  animation-duration: 25s;
+  animation-duration: 30s;
 }
 
 @keyframes topFadeOut {
