@@ -77,17 +77,6 @@ body {
   animation-duration: 24s;
 }
 
-.sixth-text {
-  font-size: 5rem;
-  position: absolute;
-  left: 5%;
-  bottom: 25%;
-  opacity: 0;
-  color: #8B0000;
-  animation-name: bottomFadeOut;
-  animation-delay: 9s;
-  animation-duration: 30s;
-}
 
 @keyframes topFadeOut {
   0% {
