@@ -176,20 +176,3 @@ body {
   }
 }
 
-@keyframes bottomFadeOut {
-  0% {
-    position: absolute;
-    bottom: -5rem;
-    opacity: 0;
-  }
-
-  75% {
-    position: absolute;
-    bottom: 25%;
-    opacity: 1;
-  }
-
-  100% {
-    opacity: 0;
-  }
-}
