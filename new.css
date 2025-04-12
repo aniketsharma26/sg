@@ -62,7 +62,7 @@ body {
   color: #f0a3be;
   animation-name: fadeInOut;
   animation-delay: 8.5s;
-  animation-duration: 19s;
+  animation-duration: 09s;
 }
 
 .fifth-text {
@@ -73,8 +73,8 @@ body {
   opacity: 0;
   color: #f0eba3;
   animation-name: bottomFadeOut;
-  animation-delay: 09s;
-  animation-duration: 24s;
+  animation-delay: 11.5s;
+  animation-duration: 11s;
 }
 
 .Sixth-text {
@@ -86,7 +86,7 @@ body {
   color: #8B0000;
   animation-name: bottomFadeOut;
   animation-delay: 09s;
-  animation-duration: 24s;
+  animation-duration: 15s;
 }
 
 @keyframes topFadeOut {
